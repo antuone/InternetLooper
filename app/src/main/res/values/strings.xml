@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Internet Looper</string>
+    <string name="text1">Каждые N минут</string>
+    <string name="text2">Включать WiFi на N секунд</string>
+    <string name="text3">Зацыклить для WiFi </string>
+</resources>
